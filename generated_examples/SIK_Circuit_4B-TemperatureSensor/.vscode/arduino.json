@@ -1,0 +1,5 @@
+{
+    "sketch": "SIK_Circuit_4B-TemperatureSensor.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno"
+}

@@ -1,0 +1,5 @@
+{
+    "sketch": "SIK_Circuit_4A-LCDHelloWorld.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno"
+}

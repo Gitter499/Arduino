@@ -1,0 +1,5 @@
+{
+    "sketch": "SIK_Circuit_1A-Blink.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno"
+}
